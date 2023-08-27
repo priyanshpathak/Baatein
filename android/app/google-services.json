@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "971809079537",
+    "project_id": "message-app-3bd02",
+    "storage_bucket": "message-app-3bd02.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:971809079537:android:84c6682fa168cabd27e950",
+        "android_client_info": {
+          "package_name": "com.example.message"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "971809079537-bnia6gvkgalovb4ln13lemb4dffndqra.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.message",
+            "certificate_hash": "9f89215868ea0f9de392ce1a4e74dacaaf91c610"
+          }
+        },
+        {
+          "client_id": "971809079537-iojdu71dm64r3v3iaesopjt012egpvp8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqFE8S7NiKLC_bWyTUjsI00MNArmh1y7k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "971809079537-bpdp2a8air0sp9he29ot8vip2vvbi2mp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "971809079537-dhvsonascv1qg2uld4v84tdmto5730hh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.pathakmessage"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
