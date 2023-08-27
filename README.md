@@ -1,6 +1,7 @@
-# message
+# Baatein
 
-A new Flutter project.
+A real Time Chatting Application purely build on flutter and Firebase
+
 
 ## Getting Started
 
